@@ -12,6 +12,10 @@ It supports listing, searching, viewing details, and marking favorites with pers
 - ✅ Search/filter by stop name
 - ✅ Git branch: `feature/Swawon` with incremental commits
 
+## Demo Video Link
+[Video Link](https://drive.google.com/file/d/1iwi2je1MMI9IWhCCfoDzWj0zaq0ha1dC/view?usp=sharing)
+
+
 ## Getting Started
 1. Clone this repo:
    ```bash
