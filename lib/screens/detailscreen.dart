@@ -1,3 +1,4 @@
+// Detail screen with favorite toggle
 
 import 'package:flutter/material.dart';
 import 'package:evide_assignment/model/model.dart';
