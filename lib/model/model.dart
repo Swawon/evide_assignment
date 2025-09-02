@@ -1,3 +1,4 @@
+// BusStop model file
 class BusStop {
   final String stopname;
   final double latitude;
