@@ -1,16 +1,30 @@
-# evide_assignment
+# Evide Take-Home Assignment - Flutter Bus Stop App
 
-A new Flutter project.
+## Overview
+This Flutter app displays bus stops loaded from a local JSON file.  
+It supports listing, searching, viewing details, and marking favorites with persistence.
+
+## Features
+- ✅ Load stops from local JSON (`assets/mock/stops.json`)
+- ✅ List view with stop name + ETA
+- ✅ Detail view with stop details (name, lat, lng, ETA placeholder)
+- ✅ Favorite toggle using `shared_preferences`
+- ✅ Search/filter by stop name
+- ✅ Git branch: `feature/Swawon` with incremental commits
 
 ## Getting Started
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/Swawon/evide_assignment
+   cd evide_assignment
+   git checkout feature/Swawon
+    ```
+2. Install dependencies:
+    ```bash
+    flutter pub get
+    ```
+3. Run
+    ```bash
+    flutter run
+    ```
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
